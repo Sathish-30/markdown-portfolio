@@ -1,3 +1,3 @@
-## I'm Sathish ,<h2> This is my Portfolio 
+## I'm Sathish , This is my Portfolio 
 
-#### Hello! World <h4> This is sathish here..
+#### Hello! World This is sathish here..
